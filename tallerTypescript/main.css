@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* html de index.html */
+html {
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+}
+
+.cursos {
+  font-size: 30px;
+}
+
+.table {
+  font-size: 30px;
+}
+
+.datos {
+  font-size: 30px;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.marge {
+  border: 2px solid gainsboro;
+}
+  
+.negrita{
+  font-weight: bold; 
+}
